@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: a0ca6107647faf34ea7f921eb4ae5290
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -303394548634283448
+    second: Caballero+Modificado_0
+  - first:
+      213: 3252071488510344325
+    second: Caballero+Modificado_1
+  - first:
+      213: -6216228573964068946
+    second: Caballero+Modificado_2
+  - first:
+      213: 8640979933168329954
+    second: Caballero+Modificado_3
+  - first:
+      213: -6393711482820296684
+    second: Caballero+Modificado_4
+  - first:
+      213: -1681480111846817531
+    second: Caballero+Modificado_5
+  - first:
+      213: 763886476858024703
+    second: Caballero+Modificado_6
+  - first:
+      213: 4197982341364555741
+    second: Caballero+Modificado_7
+  - first:
+      213: -960860219112978177
+    second: Caballero+Modificado_8
+  - first:
+      213: 90129597358564902
+    second: Caballero+Modificado_9
+  - first:
+      213: -6955419783539224072
+    second: Caballero+Modificado_10
+  - first:
+      213: -5362013785816509335
+    second: Caballero+Modificado_11
+  - first:
+      213: -3834513107058754942
+    second: Caballero+Modificado_12
+  - first:
+      213: 8054817873666768718
+    second: Caballero+Modificado_13
+  - first:
+      213: -6266131156983473441
+    second: Caballero+Modificado_14
+  - first:
+      213: 3286056075941078044
+    second: Caballero+Modificado_15
+  - first:
+      213: -8473655946152875248
+    second: Caballero+Modificado_16
+  - first:
+      213: 7456700145887133725
+    second: Caballero+Modificado_17
+  - first:
+      213: 4182355614180635779
+    second: Caballero+Modificado_18
+  - first:
+      213: -4149708152797317899
+    second: Caballero+Modificado_19
+  - first:
+      213: -5623037510990574769
+    second: Caballero+Modificado_20
+  - first:
+      213: -7501197963573147611
+    second: Caballero+Modificado_21
+  - first:
+      213: -1498288275595532873
+    second: Caballero+Modificado_22
+  - first:
+      213: -3391756784708048419
+    second: Caballero+Modificado_23
+  - first:
+      213: -3978954976085421132
+    second: Caballero+Modificado_24
+  - first:
+      213: -9143092727012445165
+    second: Caballero+Modificado_25
+  - first:
+      213: -234722649948907593
+    second: Caballero+Modificado_26
+  - first:
+      213: 4086666912152559084
+    second: Caballero+Modificado_27
+  - first:
+      213: 2761563712355953588
+    second: Caballero+Modificado_28
+  - first:
+      213: -9126099895943826154
+    second: Caballero+Modificado_29
+  - first:
+      213: 7313193665138335348
+    second: Caballero+Modificado_30
+  - first:
+      213: -8018676255492043084
+    second: Caballero+Modificado_31
+  - first:
+      213: 4204016779563630766
+    second: Caballero+Modificado_32
+  - first:
+      213: -929510164738206674
+    second: Caballero+Modificado_33
+  - first:
+      213: -5515087686815686016
+    second: Caballero+Modificado_34
+  - first:
+      213: -4031665608435118288
+    second: Caballero+Modificado_35
+  - first:
+      213: -6926314991365413897
+    second: Caballero+Modificado_36
+  - first:
+      213: 4051143151311691137
+    second: Caballero+Modificado_37
+  - first:
+      213: -5808525720289131278
+    second: Caballero+Modificado_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caballero+Modificado_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 338
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421dd5f3402acbf0800000000000000
+      internalID: -303394548634283448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 338
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb5d0e9cda12d20800000000000000
+      internalID: 3252071488510344325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 338
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea71d360c058bb9a0800000000000000
+      internalID: -6216228573964068946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 338
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4e6c3a77deae770800000000000000
+      internalID: 8640979933168329954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 338
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410092e1849f447a0800000000000000
+      internalID: -6393711482820296684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 338
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5018c744fbe2aa8e0800000000000000
+      internalID: -1681480111846817531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_6
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 338
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2e8d514bed99a00800000000000000
+      internalID: 763886476858024703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_7
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 338
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf956692ba324a30800000000000000
+      internalID: 4197982341364555741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 254
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff887f8b8b65aa2f0800000000000000
+      internalID: -960860219112978177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 254
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6266e4a2464304100800000000000000
+      internalID: 90129597358564902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 254
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f19b6aee82697f90800000000000000
+      internalID: -6955419783539224072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 254
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d8a7fedc4695b0800000000000000
+      internalID: -5362013785816509335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 254
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28afe2f25a219cac0800000000000000
+      internalID: -3834513107058754942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 254
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fff5a0e2678cf60800000000000000
+      internalID: 8054817873666768718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 252
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda1eff79ea3a09a0800000000000000
+      internalID: -6266131156983473441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_15
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 254
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c146b7e379a6a9d20800000000000000
+      internalID: 3286056075941078044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b6ea4ffc6876a80800000000000000
+      internalID: -8473655946152875248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 168
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10c43086458b7760800000000000000
+      internalID: 7456700145887133725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_18
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 170
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384f893a546ba0a30800000000000000
+      internalID: 4182355614180635779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 168
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f439fecb664966c0800000000000000
+      internalID: -4149708152797317899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_20
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 168
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bc5b60d25f6f1b0800000000000000
+      internalID: -5623037510990574769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 170
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528c657f13466e790800000000000000
+      internalID: -7501197963573147611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_22
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 168
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5eef960c2053be0800000000000000
+      internalID: -1498288275595532873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_23
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 168
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9a4f2bc2f0ee0d0800000000000000
+      internalID: -3391756784708048419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 86
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3d729d789e7c8c0800000000000000
+      internalID: -3978954976085421132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 84
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31437f16b953d1180800000000000000
+      internalID: -9143092727012445165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79e055ef81ebcf0800000000000000
+      internalID: -234722649948907593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 98
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced123e87e1c6b830800000000000000
+      internalID: 4086666912152559084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_28
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 100
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbe593a09b035620800000000000000
+      internalID: 2761563712355953588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_29
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 86
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615f98d2f74995180800000000000000
+      internalID: -9126099895943826154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_30
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 92
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e153834eead7560800000000000000
+      internalID: 7313193665138335348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_31
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 92
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be898e2e60f7b090800000000000000
+      internalID: -8018676255492043084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 20
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea00ca7bcfaa75a30800000000000000
+      internalID: 4204016779563630766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e241aaf0e67b913f0800000000000000
+      internalID: -929510164738206674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082683218f87673b0800000000000000
+      internalID: -5515087686815686016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fc0146d75ac08c0800000000000000
+      internalID: -4031665608435118288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3a3396639c0ef90800000000000000
+      internalID: -6926314991365413897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_37
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d90347b3d883830800000000000000
+      internalID: 4051143151311691137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caballero+Modificado_38
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4427dd1a8f36fa0800000000000000
+      internalID: -5808525720289131278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1297 @@
+fileFormatVersion: 2
+guid: 7ccca1413d12c2b4492822b9d2348395
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1133986393866295111
+    second: KnightSlish01_0
+  - first:
+      213: 2490757998747476414
+    second: KnightSlish01_1
+  - first:
+      213: 5973880549864903493
+    second: KnightSlish01_2
+  - first:
+      213: -3431926112976857567
+    second: KnightSlish01_3
+  - first:
+      213: 7891318477007531973
+    second: KnightSlish01_4
+  - first:
+      213: -7847680325615493266
+    second: KnightSlish01_5
+  - first:
+      213: -6950710592222967439
+    second: KnightSlish01_6
+  - first:
+      213: 2348192733963013050
+    second: KnightSlish01_7
+  - first:
+      213: -2748693766353079364
+    second: KnightSlish01_8
+  - first:
+      213: -6371709787630112465
+    second: KnightSlish01_9
+  - first:
+      213: -3520793796530172801
+    second: KnightSlish01_10
+  - first:
+      213: 8269029226643830410
+    second: KnightSlish01_11
+  - first:
+      213: 6347300504095004152
+    second: KnightSlish01_12
+  - first:
+      213: 8000042187825850215
+    second: KnightSlish01_13
+  - first:
+      213: -5039822106965134898
+    second: KnightSlish01_14
+  - first:
+      213: 6615661591638594797
+    second: KnightSlish01_15
+  - first:
+      213: 4739405142360702085
+    second: KnightSlish01_16
+  - first:
+      213: 4406533650209648827
+    second: KnightSlish01_17
+  - first:
+      213: -3103398057119340494
+    second: KnightSlish01_18
+  - first:
+      213: 824094521782624717
+    second: KnightSlish01_19
+  - first:
+      213: 8484435998668889459
+    second: KnightSlish01_20
+  - first:
+      213: 1611212618696810549
+    second: KnightSlish01_21
+  - first:
+      213: 2122500823937548338
+    second: KnightSlish01_22
+  - first:
+      213: 454372069440740769
+    second: KnightSlish01_23
+  - first:
+      213: -8599935676745043885
+    second: KnightSlish01_24
+  - first:
+      213: 4524465853816052550
+    second: KnightSlish01_25
+  - first:
+      213: -9020555071760355306
+    second: KnightSlish01_26
+  - first:
+      213: -873673997292184200
+    second: KnightSlish01_27
+  - first:
+      213: -2075946964940249439
+    second: KnightSlish01_28
+  - first:
+      213: 7653204046484904599
+    second: KnightSlish01_29
+  - first:
+      213: 396640914344051737
+    second: KnightSlish01_30
+  - first:
+      213: -4889875126362245736
+    second: KnightSlish01_31
+  - first:
+      213: -7096784290728865874
+    second: KnightSlish01_32
+  - first:
+      213: -7427220334880230625
+    second: KnightSlish01_33
+  - first:
+      213: 6159970749595759997
+    second: KnightSlish01_34
+  - first:
+      213: 7533702348723375934
+    second: KnightSlish01_35
+  - first:
+      213: 3687533852640578105
+    second: KnightSlish01_36
+  - first:
+      213: -3556151730327953728
+    second: KnightSlish01_37
+  - first:
+      213: -1594477683646547977
+    second: KnightSlish01_38
+  - first:
+      213: -2291993062405382414
+    second: KnightSlish01_39
+  - first:
+      213: 292225787080197228
+    second: KnightSlish01_40
+  - first:
+      213: -3516947568956980471
+    second: KnightSlish01_41
+  - first:
+      213: -5304521742265011391
+    second: KnightSlish01_42
+  - first:
+      213: 6646743573717766938
+    second: KnightSlish01_43
+  - first:
+      213: 5523420442386151523
+    second: KnightSlish01_44
+  - first:
+      213: 4624874403984054214
+    second: KnightSlish01_45
+  - first:
+      213: 2744836205764332387
+    second: KnightSlish01_46
+  - first:
+      213: -1344566156075581595
+    second: KnightSlish01_47
+  - first:
+      213: -8867694295889158827
+    second: KnightSlish01_48
+  - first:
+      213: -3727074864185466542
+    second: KnightSlish01_49
+  - first:
+      213: 4759176579948798393
+    second: KnightSlish01_50
+  - first:
+      213: 8862649714984949348
+    second: KnightSlish01_51
+  - first:
+      213: -4807239327247321708
+    second: KnightSlish01_52
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightSlish01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 123
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8297502654340f0800000000000000
+      internalID: -1133986393866295111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_1
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1006
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb16ec80433f09220800000000000000
+      internalID: 2490757998747476414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_2
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 811
+        width: 153
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543105985bc77e250800000000000000
+      internalID: 5973880549864903493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 811
+        width: 156
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12690a422695f50d0800000000000000
+      internalID: -3431926112976857567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_5
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 826
+        width: 163
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fddd89250771390800000000000000
+      internalID: -7847680325615493266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_6
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 826
+        width: 162
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1794106fa8d1a8f90800000000000000
+      internalID: -6950710592222967439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_7
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 826
+        width: 159
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbc40ca9d4769020800000000000000
+      internalID: 2348192733963013050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 811
+        width: 120
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b13c259daad9d0800000000000000
+      internalID: -2748693766353079364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 997
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217d68f4b32397a0800000000000000
+      internalID: -6371709787630112465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_10
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 814
+        width: 147
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c8b6e22b0a32fc0800000000000000
+      internalID: -3520793796530172801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 820
+        width: 162
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86bd6b354e71c270800000000000000
+      internalID: 8269029226643830410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 817
+        width: 129
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767af79dbfbd50f60800000000000000
+      internalID: 8000042187825850215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 811
+        width: 136
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1be2fee74fe0ab0800000000000000
+      internalID: -5039822106965134898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_15
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 811
+        width: 156
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de450d39a2d8fcb50800000000000000
+      internalID: 6615661591638594797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_16
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 808
+        width: 159
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb115dddfb5c140800000000000000
+      internalID: 4739405142360702085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 613
+        width: 156
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03d8f0207272d30800000000000000
+      internalID: 4406533650209648827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 610
+        width: 150
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238a3c8d8e38ee4d0800000000000000
+      internalID: -3103398057119340494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 616
+        width: 141
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1e230f995cf6b00800000000000000
+      internalID: 824094521782624717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 625
+        width: 133
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d123c9695ceb570800000000000000
+      internalID: 8484435998668889459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_21
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 610
+        width: 165
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530ec03175d2c5610800000000000000
+      internalID: 1611212618696810549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_22
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 619
+        width: 222
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230854ef043a47d10800000000000000
+      internalID: 2122500823937548338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_23
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 646
+        width: 171
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1addfd26df04e4600800000000000000
+      internalID: 454372069440740769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_25
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 649
+        width: 147
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b171fe8b12ace30800000000000000
+      internalID: 4524465853816052550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_26
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 646
+        width: 130
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61030e684fc80d280800000000000000
+      internalID: -9020555071760355306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_27
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 652
+        width: 129
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d57edd02610e3f0800000000000000
+      internalID: -873673997292184200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_28
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 652
+        width: 132
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6af26fb31c033e0800000000000000
+      internalID: -2075946964940249439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_29
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 658
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a90582884a53a60800000000000000
+      internalID: 7653204046484904599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 450
+        width: 132
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895f821fa7ca32cb0800000000000000
+      internalID: -4889875126362245736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_32
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 456
+        width: 132
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8887b948238d90800000000000000
+      internalID: -7096784290728865874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_33
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 453
+        width: 132
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13f7eed4763de890800000000000000
+      internalID: -7427220334880230625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 453
+        width: 136
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75b37482cc9c7550800000000000000
+      internalID: 6159970749595759997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_35
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 453
+        width: 138
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fce23fe561d8860800000000000000
+      internalID: 7533702348723375934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_36
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 453
+        width: 144
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8ed76080cc2330800000000000000
+      internalID: 3687533852640578105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_37
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 450
+        width: 153
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce5962b7d206aec0800000000000000
+      internalID: -3556151730327953728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_38
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 447
+        width: 156
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7b5ff9ef64fd9e0800000000000000
+      internalID: -1594477683646547977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_39
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 447
+        width: 150
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fedaa704743130e0800000000000000
+      internalID: -2291993062405382414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_40
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 444
+        width: 144
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64cf191ec13e0400800000000000000
+      internalID: 292225787080197228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_41
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 438
+        width: 145
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90345a2d1da413fc0800000000000000
+      internalID: -3516947568956980471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_42
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 438
+        width: 147
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14335f8749d8266b0800000000000000
+      internalID: -5304521742265011391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_43
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 432
+        width: 153
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13de88701afd3c50800000000000000
+      internalID: 6646743573717766938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 159
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368be85c0a127ac40800000000000000
+      internalID: 5523420442386151523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 252
+        width: 162
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7144c44cade2040800000000000000
+      internalID: 4624874403984054214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_46
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 252
+        width: 157
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bc6338cfd971620800000000000000
+      internalID: 2744836205764332387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_47
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 252
+        width: 144
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f3a127434275de0800000000000000
+      internalID: -1344566156075581595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_48
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 249
+        width: 132
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dd4cc550f9fe480800000000000000
+      internalID: -8867694295889158827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_49
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 246
+        width: 126
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25120fc6825c64cc0800000000000000
+      internalID: -3727074864185466542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_50
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 237
+        width: 123
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1e43f52edfb0240800000000000000
+      internalID: 4759176579948798393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlish01_51
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 237
+        width: 123
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466156e95f47efa70800000000000000
+      internalID: 8862649714984949348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

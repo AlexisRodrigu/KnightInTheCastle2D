@@ -1,0 +1,2608 @@
+fileFormatVersion: 2
+guid: 2701ca6b520bae142a272d81a864e5ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4120407753906558197
+    second: KnightSlash02_0
+  - first:
+      213: 2619459277130624717
+    second: KnightSlash02_1
+  - first:
+      213: -6393808542887301458
+    second: KnightSlash02_2
+  - first:
+      213: -1914467786909030598
+    second: KnightSlash02_3
+  - first:
+      213: 7658647392572760269
+    second: KnightSlash02_4
+  - first:
+      213: 3809956171383944382
+    second: KnightSlash02_5
+  - first:
+      213: -6534669679815597056
+    second: KnightSlash02_6
+  - first:
+      213: 4849021952643566286
+    second: KnightSlash02_7
+  - first:
+      213: -165287845889732598
+    second: KnightSlash02_8
+  - first:
+      213: -288484176268281867
+    second: KnightSlash02_9
+  - first:
+      213: 8703871405761385359
+    second: KnightSlash02_10
+  - first:
+      213: 7781624386156227848
+    second: KnightSlash02_11
+  - first:
+      213: 7007608866674292360
+    second: KnightSlash02_12
+  - first:
+      213: 8651260298874890207
+    second: KnightSlash02_13
+  - first:
+      213: -4715678874834933902
+    second: KnightSlash02_14
+  - first:
+      213: 4601793593540162939
+    second: KnightSlash02_15
+  - first:
+      213: 6665552109255892044
+    second: KnightSlash02_16
+  - first:
+      213: 5208684994020565304
+    second: KnightSlash02_17
+  - first:
+      213: 814430152385274800
+    second: KnightSlash02_18
+  - first:
+      213: 7313904976508823338
+    second: KnightSlash02_19
+  - first:
+      213: -7448514662538580800
+    second: KnightSlash02_20
+  - first:
+      213: -1899815552521134104
+    second: KnightSlash02_21
+  - first:
+      213: -7455430251541040837
+    second: KnightSlash02_22
+  - first:
+      213: -8410403117324224656
+    second: KnightSlash02_23
+  - first:
+      213: -7168481422437385145
+    second: KnightSlash02_24
+  - first:
+      213: 576427356216261453
+    second: KnightSlash02_25
+  - first:
+      213: 5388423109187166342
+    second: KnightSlash02_26
+  - first:
+      213: 6392004189471743753
+    second: KnightSlash02_27
+  - first:
+      213: 4351924862441691715
+    second: KnightSlash02_28
+  - first:
+      213: 6479782652115378030
+    second: KnightSlash02_29
+  - first:
+      213: 1922624925003083167
+    second: KnightSlash02_30
+  - first:
+      213: 2171937760835824898
+    second: KnightSlash02_31
+  - first:
+      213: 8889688369072807021
+    second: KnightSlash02_32
+  - first:
+      213: 8336952640514651468
+    second: KnightSlash02_33
+  - first:
+      213: 2431622197960060930
+    second: KnightSlash02_34
+  - first:
+      213: 5581925885741719525
+    second: KnightSlash02_35
+  - first:
+      213: -3520563510041763107
+    second: KnightSlash02_36
+  - first:
+      213: -5639419329126547557
+    second: KnightSlash02_37
+  - first:
+      213: 5418029475165185636
+    second: KnightSlash02_38
+  - first:
+      213: 259964446115260748
+    second: KnightSlash02_39
+  - first:
+      213: -5566453847321951045
+    second: KnightSlash02_40
+  - first:
+      213: -4388121375680577462
+    second: KnightSlash02_41
+  - first:
+      213: -3920643474712386307
+    second: KnightSlash02_42
+  - first:
+      213: 2580029385240905441
+    second: KnightSlash02_43
+  - first:
+      213: 8744092351207870506
+    second: KnightSlash02_44
+  - first:
+      213: 7950820624049905527
+    second: KnightSlash02_45
+  - first:
+      213: -3645564198466525819
+    second: KnightSlash02_46
+  - first:
+      213: 7311164528120289446
+    second: KnightSlash02_47
+  - first:
+      213: 8416411716693708237
+    second: KnightSlash02_48
+  - first:
+      213: 5536600391818383609
+    second: KnightSlash02_49
+  - first:
+      213: -4097517624008429166
+    second: KnightSlash02_50
+  - first:
+      213: 3856101051509827231
+    second: KnightSlash02_51
+  - first:
+      213: -2729820618206576600
+    second: KnightSlash02_52
+  - first:
+      213: 1681364796466434027
+    second: KnightSlash02_53
+  - first:
+      213: -6387678764418974198
+    second: KnightSlash02_54
+  - first:
+      213: -3250209114838772024
+    second: KnightSlash02_55
+  - first:
+      213: -30728131156291281
+    second: KnightSlash02_56
+  - first:
+      213: -6828300569133007051
+    second: KnightSlash02_57
+  - first:
+      213: 7659736693541789317
+    second: KnightSlash02_58
+  - first:
+      213: 2139626039042932576
+    second: KnightSlash02_59
+  - first:
+      213: -7915164779757105129
+    second: KnightSlash02_60
+  - first:
+      213: -7787824063726847373
+    second: KnightSlash02_61
+  - first:
+      213: 3543522897114268635
+    second: KnightSlash02_62
+  - first:
+      213: 3696788201800307963
+    second: KnightSlash02_63
+  - first:
+      213: 4469229126243433889
+    second: KnightSlash02_64
+  - first:
+      213: 7871590135241144614
+    second: KnightSlash02_65
+  - first:
+      213: 3015629821657232972
+    second: KnightSlash02_66
+  - first:
+      213: -757881317974915552
+    second: KnightSlash02_67
+  - first:
+      213: -3520346940221316641
+    second: KnightSlash02_68
+  - first:
+      213: -734692047703412705
+    second: KnightSlash02_69
+  - first:
+      213: 603464870001155789
+    second: KnightSlash02_70
+  - first:
+      213: 864796906369468085
+    second: KnightSlash02_71
+  - first:
+      213: 8337505091052075
+    second: KnightSlash02_72
+  - first:
+      213: 473906138131138023
+    second: KnightSlash02_73
+  - first:
+      213: -8149233386559601070
+    second: KnightSlash02_74
+  - first:
+      213: -3203454772177771663
+    second: KnightSlash02_75
+  - first:
+      213: 8524373933992587339
+    second: KnightSlash02_76
+  - first:
+      213: 4339192831479447186
+    second: KnightSlash02_77
+  - first:
+      213: -5178241520298877387
+    second: KnightSlash02_78
+  - first:
+      213: -753541651031323603
+    second: KnightSlash02_79
+  - first:
+      213: 3432062535920741945
+    second: KnightSlash02_80
+  - first:
+      213: -4451895977057345455
+    second: KnightSlash02_81
+  - first:
+      213: -8439240294300741878
+    second: KnightSlash02_82
+  - first:
+      213: -7294544740068768030
+    second: KnightSlash02_83
+  - first:
+      213: -4074714205211803889
+    second: KnightSlash02_84
+  - first:
+      213: 6376163396375226072
+    second: KnightSlash02_85
+  - first:
+      213: -8663654575475580870
+    second: KnightSlash02_86
+  - first:
+      213: 1478635362118076309
+    second: KnightSlash02_87
+  - first:
+      213: 4550696140090258981
+    second: KnightSlash02_88
+  - first:
+      213: -7814184894408591652
+    second: KnightSlash02_89
+  - first:
+      213: -5825098953401325399
+    second: KnightSlash02_90
+  - first:
+      213: 6033244247444747314
+    second: KnightSlash02_91
+  - first:
+      213: -6923427132873346433
+    second: KnightSlash02_92
+  - first:
+      213: -6603773741594821828
+    second: KnightSlash02_93
+  - first:
+      213: -3610664272403969641
+    second: KnightSlash02_94
+  - first:
+      213: 8621350109892750487
+    second: KnightSlash02_95
+  - first:
+      213: 1617375521001037562
+    second: KnightSlash02_96
+  - first:
+      213: 864473662183480498
+    second: KnightSlash02_97
+  - first:
+      213: -5987452431259099408
+    second: KnightSlash02_98
+  - first:
+      213: -1223122863668296186
+    second: KnightSlash02_99
+  - first:
+      213: -6212538447443470307
+    second: KnightSlash02_100
+  - first:
+      213: 3764460929862832584
+    second: KnightSlash02_101
+  - first:
+      213: 1950836063721455069
+    second: KnightSlash02_102
+  - first:
+      213: -1843147399651405208
+    second: KnightSlash02_103
+  - first:
+      213: 8737513438568095731
+    second: KnightSlash02_104
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightSlash02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1853
+        width: 132
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f49d557501ae2930800000000000000
+      internalID: 4120407753906558197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1862
+        width: 126
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee8f485503a5420800000000000000
+      internalID: 2619459277130624717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1865
+        width: 120
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae285f8101a447a0800000000000000
+      internalID: -6393808542887301458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1865
+        width: 130
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37eb5be0b17e65e0800000000000000
+      internalID: -1914467786909030598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1865
+        width: 144
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0654ee93bf84a60800000000000000
+      internalID: 7658647392572760269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1868
+        width: 156
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4b52da3feafd430800000000000000
+      internalID: 3809956171383944382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_6
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1865
+        width: 156
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00463126c803055a0800000000000000
+      internalID: -6534669679815597056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1868
+        width: 168
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca046356cf2b4340800000000000000
+      internalID: 4849021952643566286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_8
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1865
+        width: 168
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a009d047497c4bdf0800000000000000
+      internalID: -165287845889732598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_9
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1856
+        width: 166
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7353e8b291ffbf0800000000000000
+      internalID: -288484176268281867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_10
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1850
+        width: 153
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83561fadec5ac870800000000000000
+      internalID: 8703871405761385359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_11
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1841
+        width: 156
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80deb508622edfb60800000000000000
+      internalID: 7781624386156227848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1631
+        width: 150
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886bff6e227004160800000000000000
+      internalID: 7007608866674292360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1637
+        width: 156
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a0edc7637f0870800000000000000
+      internalID: 8651260298874890207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1646
+        width: 150
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27766ae4c0b8e8eb0800000000000000
+      internalID: -4715678874834933902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1643
+        width: 145
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7531a854eadcdf30800000000000000
+      internalID: 4601793593540162939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_16
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1646
+        width: 138
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9d08e35cc08c50800000000000000
+      internalID: 6665552109255892044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_17
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1649
+        width: 135
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831e08fb767f84840800000000000000
+      internalID: 5208684994020565304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_18
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1610
+        width: 138
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3aa4798ef6d4b00800000000000000
+      internalID: 814430152385274800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_19
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1628
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2725cd43d5308560800000000000000
+      internalID: 7313904976508823338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_20
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1673
+        width: 159
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc691bd06f81a890800000000000000
+      internalID: -7448514662538580800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_22
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1676
+        width: 145
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31f131dfadf88890800000000000000
+      internalID: -7455430251541040837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_23
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1676
+        width: 171
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0773d0eccee384b80800000000000000
+      internalID: -8410403117324224656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1447
+        width: 138
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b761e50a1eff700800000000000000
+      internalID: 576427356216261453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_26
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1444
+        width: 111
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6806b9ac44687ca40800000000000000
+      internalID: 5388423109187166342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_27
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1447
+        width: 111
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f954ca1f5f4b850800000000000000
+      internalID: 6392004189471743753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1447
+        width: 106
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a170bda94256c30800000000000000
+      internalID: 4351924862441691715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_29
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1453
+        width: 117
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f5311adffcce950800000000000000
+      internalID: 6479782652115378030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_30
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1522
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dee1bce298eaa10800000000000000
+      internalID: 1922624925003083167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_31
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1453
+        width: 90
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d60e4d2e5442e10800000000000000
+      internalID: 2171937760835824898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_32
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1522
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c918ad8748e5b70800000000000000
+      internalID: 8889688369072807021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_33
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1447
+        width: 84
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457127614ec2b370800000000000000
+      internalID: 8336952640514651468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_34
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1444
+        width: 87
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2003d59718bdeb120800000000000000
+      internalID: 2431622197960060930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_35
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1441
+        width: 102
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef513ec40cf67d40800000000000000
+      internalID: 5581925885741719525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_36
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1444
+        width: 111
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd222cee322742fc0800000000000000
+      internalID: -3520563510041763107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_37
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1441
+        width: 138
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fb0f3cff1ccb1b0800000000000000
+      internalID: -5639419329126547557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_38
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1441
+        width: 148
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46621d90a15b03b40800000000000000
+      internalID: 5418029475165185636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_39
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1435
+        width: 159
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496ee059449b9300800000000000000
+      internalID: 259964446115260748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_40
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1435
+        width: 141
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4c4cbd7bbffb2b0800000000000000
+      internalID: -5566453847321951045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1261
+        width: 123
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40c24babd24a13c0800000000000000
+      internalID: -4388121375680577462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1258
+        width: 102
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4a0de38831799c0800000000000000
+      internalID: -3920643474712386307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_43
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1258
+        width: 93
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e68a596e0b1ec320800000000000000
+      internalID: 2580029385240905441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1255
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2094fc4aa1495970800000000000000
+      internalID: 8744092351207870506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_45
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1252
+        width: 78
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f18597b3df65e60800000000000000
+      internalID: 7950820624049905527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_46
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1237
+        width: 72
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58565803daa586dc0800000000000000
+      internalID: -3645564198466525819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_47
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1228
+        width: 87
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8db01f669767560800000000000000
+      internalID: 7311164528120289446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_48
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1225
+        width: 102
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc6f04dd91dc470800000000000000
+      internalID: 8416411716693708237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_49
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1237
+        width: 135
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f09f91e8b4f5dc40800000000000000
+      internalID: 5536600391818383609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_50
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1255
+        width: 162
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29133183e61b227c0800000000000000
+      internalID: -4097517624008429166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_51
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1258
+        width: 169
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e041d97f938530800000000000000
+      internalID: 3856101051509827231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_52
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 1261
+        width: 159
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82082476c9abd1ad0800000000000000
+      internalID: -2729820618206576600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1051
+        width: 150
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef8a37cf58655710800000000000000
+      internalID: 1681364796466434027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_54
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1051
+        width: 147
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3083d1086a57a0800000000000000
+      internalID: -6387678764418974198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_55
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1048
+        width: 136
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c65c48c700f4e2d0800000000000000
+      internalID: -3250209114838772024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_56
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1036
+        width: 111
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2151d17de4d29ff0800000000000000
+      internalID: -30728131156291281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_57
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1033
+        width: 102
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fba3d6fc00d31a0800000000000000
+      internalID: -6828300569133007051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_58
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1027
+        width: 96
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e559390f9dc4a60800000000000000
+      internalID: 7659736693541789317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_59
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1030
+        width: 96
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f7459db8a71bd10800000000000000
+      internalID: 2139626039042932576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_60
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1030
+        width: 99
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71015e3b19fa72290800000000000000
+      internalID: -7915164779757105129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_61
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1027
+        width: 117
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a725496471ce390800000000000000
+      internalID: -7787824063726847373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_62
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 1033
+        width: 132
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd385ffec4f1d2130800000000000000
+      internalID: 3543522897114268635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_63
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1033
+        width: 148
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4992a7841ad4330800000000000000
+      internalID: 3696788201800307963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_64
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1039
+        width: 156
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb1991634e50e30800000000000000
+      internalID: 4469229126243433889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_65
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1042
+        width: 153
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6297484c5818d3d60800000000000000
+      internalID: 7871590135241144614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 826
+        width: 150
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4634f5685ba9d920800000000000000
+      internalID: 3015629821657232972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_67
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 814
+        width: 147
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026433ce4f67b75f0800000000000000
+      internalID: -757881317974915552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 808
+        width: 135
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1a9f50c17352fc0800000000000000
+      internalID: -3520346940221316641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_69
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 805
+        width: 115
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f107555a979ddc5f0800000000000000
+      internalID: -734692047703412705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_70
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 802
+        width: 108
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce98da1a10ff5800800000000000000
+      internalID: 603464870001155789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_71
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 814
+        width: 108
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b642075430600c00800000000000000
+      internalID: 864796906369468085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_72
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 787
+        width: 99
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22e34daaee9d1000800000000000000
+      internalID: 8337505091052075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_73
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 820
+        width: 120
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50f2c2f17a39600800000000000000
+      internalID: 473906138131138023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_74
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 902
+        width: 159
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2568c52596b18ee80800000000000000
+      internalID: -8149233386559601070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_75
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 865
+        width: 156
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173605a7bda0b83d0800000000000000
+      internalID: -3203454772177771663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_76
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 874
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b403a3ccde8ac4670800000000000000
+      internalID: 8524373933992587339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_77
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 883
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ef044e3e8e73c30800000000000000
+      internalID: 4339192831479447186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_78
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 895
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1865d5c03328b0800000000000000
+      internalID: -5178241520298877387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_79
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 898
+        width: 135
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c01de5cd1ea85f0800000000000000
+      internalID: -753541651031323603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 667
+        width: 138
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e6b7c41b221af20800000000000000
+      internalID: 3432062535920741945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 667
+        width: 135
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150a18e2230b732c0800000000000000
+      internalID: -4451895977057345455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_82
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 664
+        width: 135
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f8a045aabc1ea80800000000000000
+      internalID: -8439240294300741878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_83
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 667
+        width: 133
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6c102053294ca90800000000000000
+      internalID: -7294544740068768030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_84
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 667
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fbc15e405b377c0800000000000000
+      internalID: -4074714205211803889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_85
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 664
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d62bce93deac7850800000000000000
+      internalID: 6376163396375226072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_86
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 655
+        width: 129
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30271cc01484c780800000000000000
+      internalID: -8663654575475580870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_87
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 649
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5970167170b258410800000000000000
+      internalID: 1478635362118076309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_88
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 646
+        width: 126
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52632de5702572f30800000000000000
+      internalID: 4550696140090258981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_89
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 637
+        width: 123
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd67d876d307e8390800000000000000
+      internalID: -7814184894408591652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_90
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 634
+        width: 121
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8a3055d57192fa0800000000000000
+      internalID: -5825098953401325399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_91
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 628
+        width: 117
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234fc147da36ab350800000000000000
+      internalID: 6033244247444747314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_92
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 622
+        width: 117
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7278cc54bb0bef90800000000000000
+      internalID: -6923427132873346433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_93
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 619
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b303335ceaa54a0800000000000000
+      internalID: -6603773741594821828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 438
+        width: 120
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799ca2079f754edc0800000000000000
+      internalID: -3610664272403969641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_95
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 438
+        width: 126
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cae604f3035a770800000000000000
+      internalID: 8621350109892750487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_96
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 432
+        width: 135
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afedda59772127610800000000000000
+      internalID: 1617375521001037562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_97
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 432
+        width: 133
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc9020373a3ffb00800000000000000
+      internalID: 864473662183480498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_98
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 429
+        width: 135
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe90459cbb48eca0800000000000000
+      internalID: -5987452431259099408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_99
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 432
+        width: 129
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60684626c38960fe0800000000000000
+      internalID: -1223122863668296186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_100
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 432
+        width: 123
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18dcae8231a8c9a0800000000000000
+      internalID: -6212538447443470307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_101
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 429
+        width: 120
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19f4f454d0e3430800000000000000
+      internalID: 3764460929862832584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_102
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 429
+        width: 117
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd73216013c21b10800000000000000
+      internalID: 1950836063721455069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_103
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 429
+        width: 114
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d7179433db66e0800000000000000
+      internalID: -1843147399651405208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightSlash02_104
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 423
+        width: 114
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff9d06dd22e14970800000000000000
+      internalID: 8737513438568095731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

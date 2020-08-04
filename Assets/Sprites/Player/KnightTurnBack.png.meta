@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: f0baabb9be437624492b7a93a5b1833b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3242815555162388347
+    second: KnightTurnBack_0
+  - first:
+      213: 7963133385129444989
+    second: KnightTurnBack_1
+  - first:
+      213: -8226316361749809941
+    second: KnightTurnBack_2
+  - first:
+      213: 5350967792920305636
+    second: KnightTurnBack_3
+  - first:
+      213: 4531728084934534558
+    second: KnightTurnBack_4
+  - first:
+      213: -3466781395244632643
+    second: KnightTurnBack_5
+  - first:
+      213: -7341665606973319746
+    second: KnightTurnBack_6
+  - first:
+      213: 3345373568457902407
+    second: KnightTurnBack_7
+  - first:
+      213: -7668447015293832306
+    second: KnightTurnBack_8
+  - first:
+      213: 8382365028983619258
+    second: KnightTurnBack_9
+  - first:
+      213: 1143971167774303904
+    second: KnightTurnBack_10
+  - first:
+      213: -3727580944960880542
+    second: KnightTurnBack_11
+  - first:
+      213: 2811372863507454702
+    second: KnightTurnBack_12
+  - first:
+      213: 6013833929909549005
+    second: KnightTurnBack_13
+  - first:
+      213: 8969160426649446481
+    second: KnightTurnBack_14
+  - first:
+      213: 9077941706263652298
+    second: KnightTurnBack_15
+  - first:
+      213: -2997448330288533783
+    second: KnightTurnBack_16
+  - first:
+      213: -2443498217540940041
+    second: KnightTurnBack_17
+  - first:
+      213: 1101191086306256302
+    second: KnightTurnBack_18
+  - first:
+      213: 5680166097524497638
+    second: KnightTurnBack_19
+  - first:
+      213: 5488851034638786026
+    second: KnightTurnBack_20
+  - first:
+      213: 4421654635527265507
+    second: KnightTurnBack_21
+  - first:
+      213: -3329230758514725481
+    second: KnightTurnBack_22
+  - first:
+      213: -8904082817169527677
+    second: KnightTurnBack_23
+  - first:
+      213: 7920354760675781903
+    second: KnightTurnBack_24
+  - first:
+      213: 8221493968787409447
+    second: KnightTurnBack_25
+  - first:
+      213: -5618693666157669634
+    second: KnightTurnBack_26
+  - first:
+      213: 5283141847311475321
+    second: KnightTurnBack_27
+  - first:
+      213: 2400816728029157655
+    second: KnightTurnBack_28
+  - first:
+      213: -5069531990692590714
+    second: KnightTurnBack_29
+  - first:
+      213: -3642541521570492530
+    second: KnightTurnBack_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightTurnBack_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 829
+        width: 123
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77b095f09bc00d20800000000000000
+      internalID: 3242815555162388347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 832
+        width: 123
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c1bf8f9bb28e60800000000000000
+      internalID: 7963133385129444989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 826
+        width: 123
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be43be79ad046dd80800000000000000
+      internalID: -8226316361749809941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 826
+        width: 121
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef12956bd4724a40800000000000000
+      internalID: 5350967792920305636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 823
+        width: 120
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e952f21eeaee3ee30800000000000000
+      internalID: 4531728084934534558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 829
+        width: 117
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5b28650b483efc0800000000000000
+      internalID: -3466781395244632643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_6
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 823
+        width: 114
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb517ac370a2d1a90800000000000000
+      internalID: -7341665606973319746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 628
+        width: 99
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7490ae439872d6e20800000000000000
+      internalID: 3345373568457902407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 616
+        width: 99
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abeb93a0594245470800000000000000
+      internalID: 8382365028983619258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 622
+        width: 91
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6e97057b330ef00800000000000000
+      internalID: 1143971167774303904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 619
+        width: 90
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260871051e8f44cc0800000000000000
+      internalID: -3727580944960880542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_12
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 625
+        width: 87
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead88c59b0040720800000000000000
+      internalID: 2811372863507454702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_13
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 616
+        width: 90
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7337ab81e657350800000000000000
+      internalID: 6013833929909549005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 613
+        width: 105
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1586eeb23ebd87c70800000000000000
+      internalID: 8969160426649446481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 610
+        width: 96
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac76c8582e35bfd70800000000000000
+      internalID: 9077941706263652298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_16
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 607
+        width: 87
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee6090ff9ce666d0800000000000000
+      internalID: -2997448330288533783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 411
+        width: 93
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe0c2e3153f61ed0800000000000000
+      internalID: -2443498217540940041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 408
+        width: 96
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea56c196577384f00800000000000000
+      internalID: 1101191086306256302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 402
+        width: 93
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec1a2c88f004de40800000000000000
+      internalID: 5680166097524497638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_20
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 396
+        width: 87
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed1ea05fe05c2c40800000000000000
+      internalID: 5488851034638786026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 414
+        width: 78
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dec6f93423cc1d0800000000000000
+      internalID: -3329230758514725481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 402
+        width: 76
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c63f78ad75e6480800000000000000
+      internalID: -8904082817169527677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_24
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 402
+        width: 78
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d6725e0b0caed60800000000000000
+      internalID: 7920354760675781903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 408
+        width: 78
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a079c843d981270800000000000000
+      internalID: 8221493968787409447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_26
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 408
+        width: 81
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef25fe631e36602b0800000000000000
+      internalID: -5618693666157669634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_27
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 417
+        width: 81
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9726003d48d715940800000000000000
+      internalID: 5283141847311475321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_28
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 417
+        width: 81
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195ef4181a615120800000000000000
+      internalID: 2400816728029157655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 189
+        width: 81
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b0a45938765a9b0800000000000000
+      internalID: -5069531990692590714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightTurnBack_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 204
+        width: 84
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f0e2ff8c7137dc0800000000000000
+      internalID: -3642541521570492530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

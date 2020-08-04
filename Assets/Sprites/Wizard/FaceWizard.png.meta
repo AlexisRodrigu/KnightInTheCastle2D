@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 50eb8030914c2144b9cf1f6f73a5d13e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -303394548634283448
+    second: Caballero+Modificado_0
+  - first:
+      213: 3252071488510344325
+    second: Caballero+Modificado_1
+  - first:
+      213: -6216228573964068946
+    second: Caballero+Modificado_2
+  - first:
+      213: 8640979933168329954
+    second: Caballero+Modificado_3
+  - first:
+      213: -6393711482820296684
+    second: Caballero+Modificado_4
+  - first:
+      213: -1681480111846817531
+    second: Caballero+Modificado_5
+  - first:
+      213: 763886476858024703
+    second: Caballero+Modificado_6
+  - first:
+      213: 4197982341364555741
+    second: Caballero+Modificado_7
+  - first:
+      213: -960860219112978177
+    second: Caballero+Modificado_8
+  - first:
+      213: 90129597358564902
+    second: Caballero+Modificado_9
+  - first:
+      213: -6955419783539224072
+    second: Caballero+Modificado_10
+  - first:
+      213: -5362013785816509335
+    second: Caballero+Modificado_11
+  - first:
+      213: -3834513107058754942
+    second: Caballero+Modificado_12
+  - first:
+      213: 8054817873666768718
+    second: Caballero+Modificado_13
+  - first:
+      213: -6266131156983473441
+    second: Caballero+Modificado_14
+  - first:
+      213: 3286056075941078044
+    second: Caballero+Modificado_15
+  - first:
+      213: -8473655946152875248
+    second: Caballero+Modificado_16
+  - first:
+      213: 7456700145887133725
+    second: Caballero+Modificado_17
+  - first:
+      213: 4182355614180635779
+    second: Caballero+Modificado_18
+  - first:
+      213: -4149708152797317899
+    second: Caballero+Modificado_19
+  - first:
+      213: -5623037510990574769
+    second: Caballero+Modificado_20
+  - first:
+      213: -7501197963573147611
+    second: Caballero+Modificado_21
+  - first:
+      213: -1498288275595532873
+    second: Caballero+Modificado_22
+  - first:
+      213: -3391756784708048419
+    second: Caballero+Modificado_23
+  - first:
+      213: -3978954976085421132
+    second: Caballero+Modificado_24
+  - first:
+      213: -9143092727012445165
+    second: Caballero+Modificado_25
+  - first:
+      213: -234722649948907593
+    second: Caballero+Modificado_26
+  - first:
+      213: 4086666912152559084
+    second: Caballero+Modificado_27
+  - first:
+      213: 2761563712355953588
+    second: Caballero+Modificado_28
+  - first:
+      213: -9126099895943826154
+    second: Caballero+Modificado_29
+  - first:
+      213: 7313193665138335348
+    second: Caballero+Modificado_30
+  - first:
+      213: -8018676255492043084
+    second: Caballero+Modificado_31
+  - first:
+      213: 4204016779563630766
+    second: Caballero+Modificado_32
+  - first:
+      213: -929510164738206674
+    second: Caballero+Modificado_33
+  - first:
+      213: -5515087686815686016
+    second: Caballero+Modificado_34
+  - first:
+      213: -4031665608435118288
+    second: Caballero+Modificado_35
+  - first:
+      213: -6926314991365413897
+    second: Caballero+Modificado_36
+  - first:
+      213: 4051143151311691137
+    second: Caballero+Modificado_37
+  - first:
+      213: -5808525720289131278
+    second: Caballero+Modificado_38
+  - first:
+      213: -817361076253786829
+    second: FaceWizard_0
+  - first:
+      213: -5910125462468016595
+    second: FaceWizard_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 26, y: 393, z: 616, w: 1}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caballero+Modificado_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421dd5f3402acbf0800000000000000
+      internalID: -303394548634283448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceWizard_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 338
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d79a48e6628a4f0800000000000000
+      internalID: -817361076253786829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

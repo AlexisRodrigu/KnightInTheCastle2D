@@ -1,0 +1,9 @@
+implementacion de cine machine =>Hecho
+Tomar monedas y vida = SoloMonedas falta vida
+Implementacion de dialogos
+Sistema de vidas 
+Implementacion del enemigo = Hecho
+Movimiento IA del enemigo => Trabajando falta que ataque y muera
+Mecanica de subir escaleras al player = falta ver que pasa
+
+
